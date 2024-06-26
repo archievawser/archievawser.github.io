@@ -1,13 +1,13 @@
-![Colony Sim / Resource Management](/colonysim.md)
+![Colony Sim / Resource Management](/colonysim.html)
 
-![Dungeon Runner](/dungeonrunner.md)
+![Dungeon Runner](/dungeonrunner.html)
 
-![Survival](/survival.md)
+![Survival](/survival.html)
 
-![Rhythm](/rhythm.md)
+![Rhythm](/rhythm.html)
 
-![Real-Time Strategy (RTS)](/rts.md)
+![Real-Time Strategy (RTS)](/rts.html)
 
-![Bullet Hell](/bullethell.md)
+![Bullet Hell](/bullethell.html)
 
-![Tower Defense](/towerdefense.md)
+![Tower Defense](/towerdefense.html)
